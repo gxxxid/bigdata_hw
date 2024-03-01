@@ -15,30 +15,30 @@ Also, everything you need is at <a href="https://bit.ly/beyondcode-markdown">htt
 <table>
 <thead>
 <tr>
-<th align="left">Site/App</th>
-<th align="left">Logo</th>
+<th>Site/App</th>
+<th>Logo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">Github</td>
-<td align="left"><img src="https://sc.filehippo.net/images/t_app-logo-l,f_auto,dpr_auto/p/5fa45cf4-9a9b-11e6-861a-00163ec9f5fa/4242369951/github-icon.png" alt=""></td>
+<td>Github</td>
+<td><img src="https://sc.filehippo.net/images/t_app-logo-l,f_auto,dpr_auto/p/5fa45cf4-9a9b-11e6-861a-00163ec9f5fa/4242369951/github-icon.png" alt=""></td>
 </tr>
 <tr>
-<td align="left">StackOverflow</td>
-<td align="left"><img src="https://blog.grio.com/wp-content/uploads/2012/09/stackoverflow.png" alt=""></td>
+<td>StackOverflow</td>
+<td><img src="https://blog.grio.com/wp-content/uploads/2012/09/stackoverflow.png" alt=""></td>
 </tr>
 <tr>
-<td align="left">Discord</td>
-<td align="left"><img src="https://de.filester.net/images/apps/discord.webp" alt=""></td>
+<td>Discord</td>
+<td><img src="https://de.filester.net/images/apps/discord.webp" alt=""></td>
 </tr>
 <tr>
-<td align="left">Slack</td>
-<td align="left"><img src="https://sc.filehippo.net/images/t_app-logo-l,f_auto,dpr_auto/p/66b4686e-a4f9-11e6-b5ba-00163ed833e7/3976836507/slack-logo" alt=""></td>
+<td>Slack</td>
+<td><img src="https://sc.filehippo.net/images/t_app-logo-l,f_auto,dpr_auto/p/66b4686e-a4f9-11e6-b5ba-00163ed833e7/3976836507/slack-logo" alt=""></td>
 </tr>
 <tr>
-<td align="left">Facebook Messenger</td>
-<td align="left"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAflBMVEX///8Al/8AnP8Ahv8An/8Adv8Af/8ApP8Aff4Bp/8AjP8Bmv8Arv8Aq/8Bcf8Ag/8Bj/8Akv8Bef8Aif8Abv/g8f/z+v8Esf/S7P8xov/A5f9BsP8cn/9hvP+i0P9uwP+FwP+v5P9hzP9Kwf+a2f+Ux/+n3P9vr/9Wqf89kf/1e1reAAACOElEQVRYhe2X6baqIBiG9Vju1HLcqDjP1v3f4EEoJUCk/euss/ZTK2R4X/gY1DTtl/+cGGTtNLUZiH8ibrs+Wem79jOTrEuuy2f5Xq/4MukyZXnbX4X0rZIc7MixBTjWD8lNQjIc6bubJTO43TqpPO6tQ3rZeijokYNk/Cp662s3iuFLkZ2ZBJaqgSVezf6kjHAaMnX96STa1vknBjmvT/98RMoZ1J8Z1JxB4ShQlq+rgovAcXTMluZ17tB5vUDHGZK8o7MxDDpDsbRIIVWSg6WfV47dTCVrQBYq3spx1PmaLdlFZPTrJA2kT2dixskuZBG8UWxnNoUoD3HIgGrFzqIeBD7+kp+JqkJhlMSvpLrQWQN/BTnc2UXCtD6FxABVCk9bXEgN7A1/FA6gtmlYg4Kqg6Royiu6Req/GbCTmNt2FEWkDs94XKKSkrqBwlc9TiN2GetoBW+BFOJruO7YMXqHPU2V8SQKll4nn+Q8+xkG8I13KsYArDXLA7CmWuIwYsjoDW6hlhaeZxgBMoPeckXynhE0UxOseZJ6kNVrjUcwqsr2OAy2oOEMANdGBh+Bpt1N0zMJR6lpivY62KoP8fh7KmK+KDOL9FocKMrDYOcJn5mhEubu69aoZiA+rJgmDM+E/TRs9vXI4XyIVI92g3t2cTtx6obsIeKG4EoJhBuAZpTJ5eEfGoSzwnuqVn2LcR+j2vv60+CegWp+XFysvTzmSqVzDEAadx1rDBAf/t3IZsWx/vIP8RfJW1SrnfJe6wAAAABJRU5ErkJggg==" alt=""></td>
+<td>Facebook Messenger</td>
+<td><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAflBMVEX///8Al/8AnP8Ahv8An/8Adv8Af/8ApP8Aff4Bp/8AjP8Bmv8Arv8Aq/8Bcf8Ag/8Bj/8Akv8Bef8Aif8Abv/g8f/z+v8Esf/S7P8xov/A5f9BsP8cn/9hvP+i0P9uwP+FwP+v5P9hzP9Kwf+a2f+Ux/+n3P9vr/9Wqf89kf/1e1reAAACOElEQVRYhe2X6baqIBiG9Vju1HLcqDjP1v3f4EEoJUCk/euss/ZTK2R4X/gY1DTtl/+cGGTtNLUZiH8ibrs+Wem79jOTrEuuy2f5Xq/4MukyZXnbX4X0rZIc7MixBTjWD8lNQjIc6bubJTO43TqpPO6tQ3rZeijokYNk/Cp662s3iuFLkZ2ZBJaqgSVezf6kjHAaMnX96STa1vknBjmvT/98RMoZ1J8Z1JxB4ShQlq+rgovAcXTMluZ17tB5vUDHGZK8o7MxDDpDsbRIIVWSg6WfV47dTCVrQBYq3spx1PmaLdlFZPTrJA2kT2dixskuZBG8UWxnNoUoD3HIgGrFzqIeBD7+kp+JqkJhlMSvpLrQWQN/BTnc2UXCtD6FxABVCk9bXEgN7A1/FA6gtmlYg4Kqg6Royiu6Req/GbCTmNt2FEWkDs94XKKSkrqBwlc9TiN2GetoBW+BFOJruO7YMXqHPU2V8SQKll4nn+Q8+xkG8I13KsYArDXLA7CmWuIwYsjoDW6hlhaeZxgBMoPeckXynhE0UxOseZJ6kNVrjUcwqsr2OAy2oOEMANdGBh+Bpt1N0zMJR6lpivY62KoP8fh7KmK+KDOL9FocKMrDYOcJn5mhEubu69aoZiA+rJgmDM+E/TRs9vXI4XyIVI92g3t2cTtx6obsIeKG4EoJhBuAZpTJ5eEfGoSzwnuqVn2LcR+j2vv60+CegWp+XFysvTzmSqVzDEAadx1rDBAf/t3IZsWx/vIP8RfJW1SrnfJe6wAAAABJRU5ErkJggg==" alt=""></td>
 </tr>
 </tbody>
 </table><ul>
@@ -61,22 +61,22 @@ iii. Discord</li>
 <table>
 <thead>
 <tr>
-<th align="left">Markdown</th>
-<th align="left">Render</th>
+<th>Markdown</th>
+<th>Render</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">*<em>bold</em>*, _italic_</td>
-<td align="left"><strong>bold</strong>, <em>italic</em></td>
+<td>*<em>bold</em>*, _italic_</td>
+<td><strong>bold</strong>, <em>italic</em></td>
 </tr>
 <tr>
-<td align="left">`code`, ~strick~</td>
-<td align="left"><code>code</code>,<s>strike</s></td>
+<td>`code`, ~strick~</td>
+<td><code>code</code>,<s>strike</s></td>
 </tr>
 <tr>
-<td align="left">em***bold***en</td>
-<td align="left">em<strong>bold</strong>en</td>
+<td>em***bold***en</td>
+<td>em<strong>bold</strong>en</td>
 </tr>
 </tbody>
 </table><pre class=" language-go"><code class="prism  language-go"><span class="token keyword">import</span> <span class="token string">"fmt"</span>
